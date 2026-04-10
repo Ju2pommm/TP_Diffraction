@@ -3,6 +3,8 @@ LEGACY == fichier ancien et non mis à jour, a ignorer (sauf voir différentes i
 
 Pour lancer le code : laser diffraction => main.py (run main.py)
 
+CONSEIL : Mettre la fenêtre Tkinter qui s'affiche lorsque l'on run le programme en grand/plein écran, afin d'avoir accès à tous les menus de cette fenêtre. Certains PC/sytèmes l'affichent en tout petit
+
 Les images sont dans le fichier correspondant
 
 Le code est dans le dossier laser_diffraction, organisé comme suis : 
