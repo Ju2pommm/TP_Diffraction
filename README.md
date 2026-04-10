@@ -1,4 +1,4 @@
-# TP_Diffraction
+# README
 LEGACY == fichier ancien et non mis à jour, a ignorer (sauf voir différentes itérations du code avant sa version modulaire)
 
 Pour lancer le code : laser diffraction => main.py (run main.py)
